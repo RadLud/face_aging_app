@@ -82,7 +82,7 @@ PatchGAN focuses on local image patches which helps preserve texture details.
 | Batch size      | 1–2          |
 | Optimizer       | Adam         |
 | Learning rate   | 0.0002       |
-| Epochs          | configurable |
+| Epochs          | ~220         |
 
 ### Loss Functions
 
